@@ -9,4 +9,4 @@ Most discord.js files seen here weren't mine and i copy pasted them to see how t
 All discord.py bots will no longer work as the API has been updated to a newer version
 they will need maintaining to work again, I'm not interested in approaching that at this time
 
-##If you want to contribute to this repo, be my guest, I'll approve any pull requests coming through :)
+## If you want to contribute to this repo, be my guest, I'll approve any pull requests coming through :)
